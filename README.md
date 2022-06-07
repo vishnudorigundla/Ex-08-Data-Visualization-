@@ -243,6 +243,7 @@ plt.show()
 # OUTPUT :
 OUPUT
 Initial Dataset:
+![image](https://user-images.githubusercontent.com/94175324/172290769-a17f9810-ba58-47a0-8bb4-9046cc70f484.png)
 
 
 Cleaned Dataset:
