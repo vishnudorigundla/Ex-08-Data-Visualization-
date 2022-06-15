@@ -266,8 +266,6 @@ Line PLot:
 ![image](https://user-images.githubusercontent.com/94175324/172291320-979dacaa-8ec3-47b7-9142-2b5110592330.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291336-864d03d1-d571-466c-b8f5-08f727df0d25.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291350-343f69d4-1720-490b-a490-ee8920a62dc3.png)
-![image](https://user-images.githubusercontent.com/94175324/172291362-e1507df5-bdcb-42d1-abd7-c33e8c509340.png)
-![image](https://user-images.githubusercontent.com/94175324/172291375-16befff3-bef6-43f7-bb6b-e3cbd6dc8f33.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291583-20d07c56-1a70-427d-89f4-d3223155cc9b.png)
 
 
@@ -289,7 +287,6 @@ Bar Plots:
 ![image](https://user-images.githubusercontent.com/94175324/172291625-c0edf028-f7b6-4850-b898-8cfd649b8377.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291642-8478c264-3e3e-4929-a0c5-694873e474db.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291654-4b37765e-dae4-4fab-956e-95963e3fed08.png)
-![image](https://user-images.githubusercontent.com/94175324/172291676-60dcd13e-7e5e-4fa6-b01a-57d5eba3b460.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291688-00703f6d-0eaa-4c03-8c6b-1f3adecbca6c.png)
 
 
@@ -308,7 +305,6 @@ Histograms:
 ![image](https://user-images.githubusercontent.com/94175324/172291708-f6afb9b8-a276-41ef-9c1f-3bc5072524b3.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291752-8acb96bf-222a-44a4-b44b-61c4e877df18.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291834-1623fcfd-7aed-4a59-8eb6-25bb701b5273.png)
-![image](https://user-images.githubusercontent.com/94175324/172291857-4df73d91-557d-461b-920f-1cdd2cac48c8.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291869-332d8f2b-eec1-4e9d-9249-ae14a01fc081.png)
 
 
@@ -324,7 +320,6 @@ Count plots:
 
 ![image](https://user-images.githubusercontent.com/94175324/172291885-ccf1e03e-df4c-4c5f-b256-8d28cdf24c71.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291895-f1112134-0c94-4c1a-8374-259d43405edc.png)
-![image](https://user-images.githubusercontent.com/94175324/172291913-fdb0141b-9622-4801-ad99-cd23a2c6a1b2.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291920-62648fb3-dc6a-4443-86b3-def11f715b1e.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291937-153812c1-2452-4b9d-82df-dad8abeef1a5.png)
 
@@ -341,8 +336,6 @@ Bar Charts:
 ![image](https://user-images.githubusercontent.com/94175324/172291968-06321446-7c08-42d5-91e1-c15543af5d8c.png)
 ![image](https://user-images.githubusercontent.com/94175324/172291984-b79a1b0b-42a4-4a08-8cb8-006dd6f857c3.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292004-62fc9a6f-e675-440e-831a-191bdaee2ee5.png)
-![image](https://user-images.githubusercontent.com/94175324/172292019-ce647874-8786-4b1f-9e88-b97d03adde77.png)
-![image](https://user-images.githubusercontent.com/94175324/172292026-e25fc29f-cb27-4ca2-bf45-81db2b8b1060.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292039-040aa434-d322-462c-bdb2-10bfaaa295b6.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292053-f39ca310-2c5e-41e4-a4d5-d052e7a61a65.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292069-4c36b9b8-3de4-4928-8bdb-690d9b9f62da.png)
@@ -365,7 +358,6 @@ KDE Plots:
 
 ![image](https://user-images.githubusercontent.com/94175324/172292091-82a8144b-c3a8-4000-b9bb-7cd86e08a30e.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292117-f57e2fca-53a1-47a3-bba7-2df3f7f7e4ff.png)
-![image](https://user-images.githubusercontent.com/94175324/172292128-a24027fb-b2b3-402c-9cc5-e164c7109ce0.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292138-e9ca6b01-9bc6-40e2-a71f-0437893c84db.png)
 
 
@@ -378,7 +370,6 @@ Violin Plot:
 
 ![image](https://user-images.githubusercontent.com/94175324/172292158-8fb25a75-376b-4207-b933-96e8fb71173b.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292175-caa9657c-7a11-4f1e-bc21-e664fa5ea7aa.png)
-![image](https://user-images.githubusercontent.com/94175324/172292200-9c62df8d-79d0-41c4-9d6a-36f3f057c30c.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292211-96ec0635-66ce-47b0-96ac-80b6f011cc4d.png)
 
 
@@ -402,9 +393,7 @@ Pie Charts:
 
 ![image](https://user-images.githubusercontent.com/94175324/172292281-c725d5f8-7306-4be0-80a5-8069719cf144.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292312-97c8afda-abf8-473d-ad9a-39147e235d57.png)
-![image](https://user-images.githubusercontent.com/94175324/172292341-031b99f2-66f1-4119-b149-86f2a3a7a132.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292358-5ca3e373-3e31-470f-8afa-275f6339d760.png)
-![image](https://user-images.githubusercontent.com/94175324/172292367-8ff50dda-f3a0-4f1f-b49a-1f0698a86677.png)
 ![image](https://user-images.githubusercontent.com/94175324/172292382-2ba24f49-cd7b-4039-994d-04aaf9571f31.png)
 
 
